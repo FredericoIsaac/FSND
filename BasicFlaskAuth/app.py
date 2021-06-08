@@ -113,6 +113,7 @@ def requires_auth(f):
             payload = verify_decode_jwt(token)
         except:
             abort(401)
+
         return f(payload, *args, **kwargs)
 
     return wrapper
