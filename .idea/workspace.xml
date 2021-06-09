@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="617dd2af-3b89-447f-a4aa-d06c85edf463" name="Default Changelist" comment="first commit" />
+    <list default="true" id="617dd2af-3b89-447f-a4aa-d06c85edf463" name="Default Changelist" comment="add auth0 application">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicFlaskAuth/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/BasicFlaskAuth/app.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +38,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1623163512417</updated>
-      <workItem from="1623163513846" duration="499000" />
+      <workItem from="1623163513846" duration="879000" />
+      <workItem from="1623170212753" duration="141000" />
+      <workItem from="1623245692480" duration="1168000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1623169462142</created>
@@ -44,7 +49,21 @@
       <option name="project" value="LOCAL" />
       <updated>1623169462142</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add auth0 application">
+      <created>1623169913012</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1623169913012</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add auth0 application">
+      <created>1623169941950</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1623169941950</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -60,9 +79,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="add auth0 application" />
+    <option name="LAST_COMMIT_MESSAGE" value="add auth0 application" />
   </component>
 </project>
